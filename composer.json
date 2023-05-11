@@ -1,0 +1,12 @@
+{
+  "name": "samgree1/328/pet",
+  "authors": [
+    {
+      "name": "Sam Grigorenko",
+      "email": "samiam41028@gmail.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
